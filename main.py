@@ -13,3 +13,4 @@ k = int(input())
 print(k//n)
 print(k-(k//n)*n)
 
+#
